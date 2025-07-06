@@ -6,7 +6,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
-import pickle
+# import pickle
 import json
 import os
 from datetime import datetime
